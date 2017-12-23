@@ -564,6 +564,7 @@ code .hljs-at_rule { color: #088; }
 
   #content {
     padding: 0 0 6.0em;
+	overflow:scroll
   }
 
   #content > * {
