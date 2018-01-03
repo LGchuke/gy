@@ -39,6 +39,13 @@ var demoOptions = {
         oscAmplitude: 0,
         friction: 0.05,
         channels: [ 'lum' ]
+    },
+    'five': {
+        dotSize: 1/100,
+        initVelocity: 0.05,
+        oscAmplitude: 0,
+        friction: 0.05,
+        channels: [ 'lum' ]
     }
 };
 
